@@ -1,0 +1,5 @@
+{
+  "title": "How to Learn Next.js",
+  "content": "Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations. Under the hood, Next.js also abstracts and automatically configures tooling needed for React, like bundling, compiling, and more.\n\nWhether you're an individual developer or part of a larger team, Next.js can help you build interactive, dynamic, and fast React applications. It provides built-in routing, data fetching, image optimization, and supports both Server-Side Rendering (SSR) and Static Site Generation (SSG).\n\nWith the introduction of the App Router in version 13, Next.js brought native support for React Server Components, streaming, layouts, and server actions, making it significantly easier to write high-performance web applications with less client-side JavaScript overhead.",
+  "author": "Hafsa"
+}

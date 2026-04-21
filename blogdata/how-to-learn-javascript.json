@@ -1,0 +1,5 @@
+{
+  "title": "How to Learn JavaScript",
+  "content": "JavaScript (JS) is a programming language and a core technology of the web, alongside HTML and CSS. It was created by Brendan Eich in 1995. As of 2025, the vast majority of websites (around 98.9%) use JavaScript for client-side webpage behavior.\n\nWeb browsers have dedicated JavaScript engines that execute client-side code. These engines are also used in servers and various applications. The most popular runtime environment for non-browser usage is Node.js.\n\nJavaScript is a high-level, often just-in-time compiled language that follows the ECMAScript standard. It features dynamic typing, prototype-based object-oriented programming, and first-class functions. It supports multiple programming paradigms, including event-driven, functional, and imperative styles. It also provides APIs for working with text, dates, regular expressions, data structures, and the Document Object Model (DOM).",
+  "author": "Hafsa"
+}

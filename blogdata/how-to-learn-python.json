@@ -1,0 +1,5 @@
+{
+  "title": "How to Learn Python",
+  "content": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.\n\nIt is often described as a 'batteries included' language due to its comprehensive standard library. Python was created by Guido van Rossum and first released in 1991.\n\nPython consistently ranks as one of the most popular programming languages. It has widespread application in various fields such as data science, machine learning, web development, web scraping, automation, and general software development. To start learning Python, focus on fundamental concepts like data types, control flow, functions, and standard libraries.",
+  "author": "Hafsa"
+}
